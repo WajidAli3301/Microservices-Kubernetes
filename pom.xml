@@ -9,7 +9,8 @@
 	</parent>
 
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>com.ewolff</groupId>
+	<groupId>com.Wajidali3301</groupId>
+	<artifactId>Microservices-Kubernetes</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>pom</packaging>
 
